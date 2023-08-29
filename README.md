@@ -1,2 +1,3 @@
 # git-test
-Odin Project Assignment
+Testing a github repo
+Hello Odin!
